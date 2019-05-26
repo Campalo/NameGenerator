@@ -1,8 +1,11 @@
-# camille_tuto
+# Random Name Generator
 
-A new Flutter project.
+Experimenting Flutter by creating a new project to generate random names.
 
-## Getting Started
+
+***
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
