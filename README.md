@@ -1,7 +1,11 @@
 # Random Name Generator
 
-Experimenting Flutter by creating a new project to generate random names.
+Experimenting Flutter by creating a new project to generate random names and select some of them as favourite.
 
+## Follow the steps to test the app:
+* Clone the repository
+* [Install Flutter](https://flutter.dev/docs/get-started/install)
+* [Serve the app](https://flutter.dev/docs/get-started/editor?tab=vscode)
 
 ***
 
